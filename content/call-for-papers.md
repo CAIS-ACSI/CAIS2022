@@ -9,8 +9,12 @@ header:
   caption: ""
   image: ""
 ---
+ 
+### 100 Years of Information Science: Understanding the Past and Building the Future
+50th Annual Conference of the Canadian Association for Information Science /
+l’Association canadienne des sciences de l’information (CAIS/ACSI)
 
-### Call for papers
+
 The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 50th Annual Conference, June 7 – 10, 2022. As in 2020 and 2021, the 2022 conference will be <b>free and open to all, online</b>.
 <br><br>
 CAIS/ACSI’s first conference took place in 1973. That year, 171 attendees gathered at the Château Montebello for the inaugural conference (Nilsen, 2010, p.135). In the scenic Québec countryside, they discussed matters with abiding relevance today: privacy, systems, information management, metadata, policy, curriculum (Nilsen, 2010. p. 140). In 2022, CAIS/ACSI will host its 50th conference, a virtual event open to attendees around the world. Over the years, the interests discussed at CAIS/ACSI have broadened and diversified, but the community spirit, for which the conference is known, has remained constant. 
