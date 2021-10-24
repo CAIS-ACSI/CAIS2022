@@ -11,41 +11,43 @@ header:
 ---
 
 ### Call for papers
-The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 49th Annual Conference, June 7 – 10, 2021. CAIS/ACSI is planned to take place fully online, hosted by the University of Alberta in Edmonton. 
+The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 50th Annual Conference, June 7 – 10, 2022. As in 2020 and 2021, the 2022 conference will be <b>free and open to all, online</b>.
 <br><br>
-Library and information science is a diverse and relational field, one where different research streams, communities, and cultures meet. However, research, scholarship, pedagogy, and inquiry in information science often centres on the theories, ideas, and practices that have become well-established and privileged. In this time of great change in our communities, cultures, and society, our expectations of “normal” have been ruptured. This contemporary moment simultaneously invites us to re-examine our work by seeking overlooked, under-cited, and emergent voices and scholarship, and transformative methodologies, partnerships, and relationships within and beyond our field. “Northern Relations” calls us to consider both the intergenerational impacts of our work in terms of leadership and pedagogy as well as the constellations of information science that guide us to the emergent, networked, rhizomatic, and connected ideas that take us to literal and metaphorical unexpected and overlooked places and spaces. Facilitating and caring for relations with people, ideas, and non-humans from these entangled, unexpected, and overlooked places and spaces contributes to a resilient and vibrant field in education, research, and practice. 
+CAIS/ACSI’s first conference took place in 1973. That year, 171 attendees gathered at the Château Montebello for the inaugural conference (Nilsen, 2010, p.135). In the scenic Québec countryside, they discussed matters with abiding relevance today: privacy, systems, information management, metadata, policy, curriculum (Nilsen, 2010. p. 140). In 2022, CAIS/ACSI will host its 50th conference, a virtual event open to attendees around the world. Over the years, the interests discussed at CAIS/ACSI have broadened and diversified, but the community spirit, for which the conference is known, has remained constant. 
 <br><br>
-Under our conference theme of “Northern Relations: Connecting the Unexpected and Overlooked to Information Science”, we invite researchers, practitioners, and students in library and information science and cognate fields to consider entangled, emergent, unexpected, intriguing, and novel aspects of scholarship, research, theory, and practice that offer diverse and inclusive perspectives on data, information, knowledge, libraries, pedagogy, place, space, and communities. 
+To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Information Science.” We encourage consideration of the past fifty years, and of the next fifty. We invite attendees to draw insights from the history of our field, and to articulate potential futures.
 <br><br>
-Submissions may cover topics including but not necessarily limited to the following:
-- Emergent or overlooked perspectives in library and information research and practices
-- Decolonizing, anti-racist, and critical approaches to pedagogy in LIS
-- Novel or intriguing methodologies, theories, frameworks, or models from within and beyond the field
-- Accountability, responsibility, and taking care of relations in LIS research and practice
-- Connected or networked views of data, information, and knowledge as they are entangled with people, communities, and society
-- Relational, interdisciplinary, and intersectional research, theory, and practice that facilitates equity, diversity, and inclusion
+Submissions may cover topics including, but not limited to, the following:
+- Emergent perspectives that will illuminate the concerns of tomorrow
+- Systematic reanalyses and reviews that reveal new and/or needed directions
+- Revitalisation of ideas that may have initially been “ahead of their time”
+- Critical reappraisals of the history of our field
+- Articulations of challenges, opportunities, and visions for the future(s) of our field
+- Identification of positive and/or negative futures for our field
+- Examinations of the inter-disciplinary and/or trans-disciplinary character of our field, and its evolving boundaries
+- Explorations of the impact of our field, historical or potential
 <br>
 
-We invite papers, panels, and poster submissions representing diverse topics and methods related (but not limited) to the above theme. We particularly encourage individuals to submit papers, panels, and posters with further connections to “Northern Relations”; and that emphasize, support, and facilitate equity, diversity, inclusion, intersectionality, truth and reconciliation, and/or decolonization.
+We welcome papers, panels, and lightning talks representing diverse topics and methods. We particularly encourage contributions with connections to “Understanding the Past and Building the Future,” ie., those that unearth historical insights with relevance for today, and those that envision and argue for potential futures for library and information science.
 
 ### Types of proposals
-CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French.
+CAIS/ACSI welcomes proposals reporting on empirical, theoretical, and practice-based research. Proposals may be submitted in English or French. All proposals will undergo double-blind peer review, and should be scrubbed of personally identifying information upon initial submission.
 <br><br>
-**Papers**: 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this <a href="http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx" target="_blank">template</a>. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
+**Papers**: 20-minute oral presentations of completed or well-developed projects on topics suitable for publication in scholarly journals. Proposals reporting on completed or ongoing research will be given preference. Diverse and innovative perspectives (theoretical and applied) and methodologies are welcome. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references). Please use this template. <a href="http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx" target="_blank">template</a>. (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
+<br><br>
+**Lightning Talks:**: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted posters will also be invited to provide a 2-3-minute video overview of their work. Please use this <a href="http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx" target="_blank">template</a> (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
 <br><br>
 **Panels**: 90-minute oral presentations from three or more authors on emerging domains, trends, or contrasting viewpoints, including time for questions or discussion. Panels are an opportunity to engage in discussion of shared concerns, including those not available in completed research or yet adequately recognized. Proposals should not be simply a set of related paper presentations; we encourage proposals that offer creative and unique opportunities for engagement and discussion with the audience as part of the panel session. We recommend three to five panelists plus a moderator; there will be an opportunity to modify the list of panelists after acceptance. Proposals should be in the form of an extended abstract (approximately 1000-1500 words excluding references), that identifies the topic to be discussed, provides an overview of the structure of the panel, and includes relevant qualifications and contributions of each participating panelist. Please use this [template](http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx). (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
-<br><br>
-**Posters**: Visual presentations of projects at any stage of development on topics suitable for publication in scholarly journals. Diverse perspectives (theoretical and applied) and methodologies are welcomed. Proposals should be in the form of a short abstract (maximum 750 words excluding references), reporting on research projects, theoretical developments or innovative practical applications. Presenters of accepted posters will also be invited to provide a 2-3-minute video overview of their work. Please use this <a href="http://cais-acsi.ca/wp-content/uploads/2019/10/CAIS-ACSI-2020-Abstract-Template.docx" target="_blank">template</a> (note: if you are having difficulties downloading the template, try opening the link in a new window or tab, or using the _save as_ function).
 <br><br>
 **Student-to-CAIS/ACSI and Best Paper by a Practitioner Awards**: Paper proposals by graduate students and practitioners will be considered for these awards. The Student-to-CAIS/ACSI award includes a monetary prize. Both awardees will have the opportunity to publish the full manuscript in the *Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie*. In order to be considered for these awards, please indicate if you are a student or practitioner when submitting your proposal. Winners will be selected based on their extended abstracts. Details of the award, including previous winners, can be found at the CAIS/ACSI website at www.cais-acsi.ca.
 <br><br>
 Proposals will be evaluated on theory/methodology, clarity, impact/originality, and overall quality. Proposals will be received and reviewed using the OJS system: https://journals.library.ualberta.ca/ojs.cais-acsi.ca/index.php/cais-asci/about/submissions. If you run into issues submitting your paper, poster, or panel through OJS by the submission date, please submit instead by email to Robyn Stobbs (stobbs@ualberta.ca) with “CAIS 2021” as the subject line.
 <br><br>
-**Student Research Forum**: We are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other master’s and doctoral students. Students at any stage of their graduate program are invited to submit to the Forum.
+**Student Research Forum**: WWe are pleased to invite master’s and doctoral students to CAIS’s Student Research Forum. The Forum’s goal is to provide graduate students with an opportunity to present and discuss their research project, get feedback from senior researchers, and make connections with other students. Students at any stage of their graduate program are invited to submit to the Forum.
 <br><br>
 Please be prepared to present informally on an aspect of your research for 5-10 minutes, which will be followed by discussion. More details will be provided upon acceptance.
 <br><br>
-To participate, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLSdLg4QDkFUgfzT9D2Uq-aoW0SYUUP1q9K_tNhcvMoZdDc8LmA/viewform?usp=sf_link).
+To participate in the Forum, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLScbW8_kNo-9bWQ4VnIV5jT5y601eTuyw0hK1h0Y_s-7Qa5aIQ/viewform?usp=sf_link).
 <br><br>
 The submission deadline for all proposals is ~~January 22~~ **February 2, 2021, midnight Pacific Time**.
 <br><br>
@@ -55,20 +57,21 @@ Initial submissions should be scrubbed of identifying information for double-bli
 <br><br>
 Registration: The conference will be free and open to all, with no registration necessary.
 <br><br>
-For further information, please contact the CAIS/ACSI 2021 Conference Co-Chairs:
+For further information, please contact the CAIS/ACSI 2022 Conference Co-Chairs:
 <br><br>
-**Tami Oliphant**<br>
-Associate Professor, School of Library and Information Studies<br>
-University of Alberta<br>
-toliphan@ualberta.ca <br>
+Alex Mayhew, PhD Candidate<br>
+Western University<br>
+amayhew@uwo.ca<br>
 <br>
-**Adam Worrall** <br>
-Assistant Professor, School of Library and Information Studies<br>
-University of Alberta<br>
-worrall@ualberta.ca<br>
+Alison Brown, Lecturer<br>
+Dalhousie University<br>
+alisonbrown@dal.ca<br>
 <br>
-**Robyn Stobbs**<br>
-Research Data Management Librarian, Athabasca University<br>
-PhD Candidate, Human Ecology & Library and Information Studies<br>
+Sarah Polkinghorne, PhD<br>
 University of Alberta<br>
-stobbs@ualberta.ca
+sarah.polkinghorne@ualberta.ca<br>
+
+### References
+Nilson, K. (2010). Thirty-seven CAIS-ACSI conferences, 1973–2009. <italic>Canadian Journal of Information and Library Science, 34</italic>(2), 131-159. [https://doi.org/10.1353/ils.0.0000](https://doi.org/10.1353/ils.0.0000)
+
+
