@@ -14,6 +14,7 @@ CAIS/ACSI’s first conference took place in 1973. That year, 171 attendees gath
 To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Information Science.” We encourage consideration of the past fifty years, and of the next fifty. We invite attendees to draw insights from the history of our field, and to articulate potential futures.
 <br><br>
 Submissions may cover topics including, but not limited to, the following:
+
 - Emergent perspectives that will illuminate the concerns of tomorrow
 - Systematic reanalyses and reviews that reveal new and/or needed directions
 - Revitalisation of ideas that may have initially been “ahead of their time”
@@ -22,8 +23,8 @@ Submissions may cover topics including, but not limited to, the following:
 - Identification of positive and/or negative futures for our field
 - Examinations of the inter-disciplinary and/or trans-disciplinary character of our field, and its evolving boundaries
 - Explorations of the impact of our field, historical or potential
-<br>
 
+<br>
 We welcome papers, panels, and lightning talks representing diverse topics and methods. We particularly encourage contributions with connections to “Understanding the Past and Building the Future,” ie., those that unearth historical insights with relevance for today, and those that envision and argue for potential futures for library and information science.
 
 ### Types of proposals
