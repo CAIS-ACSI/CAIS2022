@@ -24,7 +24,7 @@ Submissions may cover topics including, but not limited to, the following:
 - Identification of positive and/or negative futures for our field
 - Examinations of the inter-disciplinary and/or trans-disciplinary character of our field, and its evolving boundaries
 - Explorations of the impact of our field, historical or potential
-<br>
+
 We welcome papers, panels, and lightning talks representing diverse topics and methods. We particularly encourage contributions with connections to “Understanding the Past and Building the Future,” ie., those that unearth historical insights with relevance for today, and those that envision and argue for potential futures for library and information science.
 
 ### Types of proposals
