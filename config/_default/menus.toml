@@ -5,33 +5,33 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = ""
   weight = 10
 
-[[main]]
-  name = "Program"
-  url = "#program"
-  weight = 25
+#[[main]]
+# name = "Program"
+# url = "#program"
+# weight = 25
 
-[[main]]
-  name = "Detailed program"
-  url = "#talks"
-  weight = 30
+#[[main]]
+# name = "Detailed program"
+# url = "#talks"
+# weight = 30
 
-[[main]]
-  name = "Team"
-  url = "#chairs"
-  weight = 45
+#[[main]]
+# name = "Team"
+# url = "#chairs"
+# weight = 45
 
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+#[[main]]
+# name = "Contact"
+# url = "#contact"
+# weight = 60
 
-[[main]]
-  name = "Français"
-  url = "https://acsi2021.ca"
-  weight = 65
+#[[main]]
+# name = "Français"
+# url = "https://acsi2021.ca"
+# weight = 65
 
 #[[main]]
 #  name = "Live Stream"
