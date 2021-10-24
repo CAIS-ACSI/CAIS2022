@@ -28,10 +28,10 @@
 # url = "#contact"
 # weight = 60
 
-#[[main]]
-# name = "Français"
-# url = "https://acsi2021.ca"
-# weight = 65
+[[main]]
+ name = "Français"
+ url = "https://acsi2022.ca"
+ weight = 65
 
 #[[main]]
 #  name = "Live Stream"
