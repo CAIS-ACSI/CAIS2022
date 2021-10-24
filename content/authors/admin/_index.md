@@ -6,7 +6,7 @@ authors:
 superuser: false
 ---
 ## 100 Years of Information Science: Understanding the Past and Building the Future
-**Call for papers**<br>
+**Call for papers**
 <br><br>
 The Canadian Association for Information Science / l’Association canadienne des sciences de l’information (CAIS/ACSI) invites submissions for its 50th Annual Conference, June 7 – 10, 2022. As in 2020 and 2021, the 2022 conference will be <b>free and open to all, online</b>.
 <br><br>
