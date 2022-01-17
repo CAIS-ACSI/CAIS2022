@@ -46,7 +46,7 @@ Please be prepared to present informally on an aspect of your research for 5-10 
 <br><br>
 To participate in the Forum, please fill out the following [submission form](https://docs.google.com/forms/d/e/1FAIpQLScbW8_kNo-9bWQ4VnIV5jT5y601eTuyw0hK1h0Y_s-7Qa5aIQ/viewform?usp=sf_link).
 <br><br>
-**The submission deadline for all proposals is ~~January 21, 2022~~ Februrary 4, midnight Pacific Time.**
+**The submission deadline for all proposals is ~~January 21,~~ Februrary 4 2022, midnight Pacific Time.**
 <br><br>
 Authors will be notified by **March 15, 2022**. Final versions must be submitted no later than **May 15, 2022**, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to CAIS’s diamond open access journal (no Article Processing Charges): [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 <br><br>
