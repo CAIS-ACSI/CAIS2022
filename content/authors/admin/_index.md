@@ -48,7 +48,7 @@ To participate in the Forum, please fill out the following [submission form](htt
 <br><br>
 **The submission deadline for all proposals is ~~January 21,~~ Februrary 4 2022, midnight Pacific Time.**
 <br><br>
-Authors will be notified by **March 15, 2022**. Final versions must be submitted no later than **May 15, 2022**, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to CAIS’s diamond open access journal (no Article Processing Charges): [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
+Authors will be notified by ~~**March 15, 2022**~~ **April 1, 2022**. Final versions must be submitted no later than **May 15, 2022**, and will then be published on the conference website and in the conference proceedings. Authors are also encouraged to submit full papers to CAIS’s diamond open access journal (no Article Processing Charges): [Canadian Journal of Information and Library Science / La Revue canadienne des sciences de l’information et de bibliothéconomie](https://ojs.lib.uwo.ca/index.php/cjils).
 <br><br>
 For further information, please contact the CAIS/ACSI 2022 Conference Co-Chairs:
 <br><br>
