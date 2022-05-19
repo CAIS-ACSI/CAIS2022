@@ -7,8 +7,8 @@ location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664
 
 abstract: "INAUGURAL JOINT PANEL with the Canadian Association for Professional Academic Librarians (CAPAL), Well into the Future: Perspectives on Research and Practice"
 
-date: "2021-06-07T12:30:00Z"
-date_end: "2021-06-07T14:00:00Z"
+date: "2022-06-07T15:00:00Z"
+date_end: "2022-06-07T16:00:00Z"
 
 all_day: false
 
