@@ -54,10 +54,10 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
     <td>INAUGURAL CAIS-CAPAL JOINT PANEL</br>
-        Moderator: TBD</td>
+        Moderator: TBA</td>
     <td>3:00pm - 4:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/2.Capal/">Well into the Future: Perspectives on Research and Practice</a></strong><br>
-        <i>Mary Greenshields, Michelle Brown, TBD, TBD</i>
+        <i>Mary Greenshields, Michelle Brown, TBA, TBA</i>
     </td>
   </tr>
   <tr>
@@ -98,7 +98,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   </tr>
   <tr>
-    <td rowspan=3>Search and Discovery</br>Moderator: TBD</td>
+    <td rowspan=3>Search and Discovery</br>Moderator: TBA</td>
     <td>12:30pm - 1:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/6.Shiri/">Digital content reuse assessment: An emerging framework for future digital library research and development</a></strong><br>
         <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
@@ -132,7 +132,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <td colspan=2>3:45pm - 4:15pm</td>
   </tr>
   <tr>
-  <td rowspan=3>Scholarly Communications</br>Moderator:TBD</td>
+  <td rowspan=3>Scholarly Communications</br>Moderator:TBA</td>
     <td>4:15pm - 4:45pm</td>
       <td><strong><a href="https://www.cais2022.ca/talk/10.Ayeni/">Factors influencing Canadian HASS researchers’ open access publishing practices: Implication for the future of scholarly communication</a></strong><br>
         <i>Philips Ayeni & Rebekah Willson</i>
@@ -171,7 +171,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
     <td rowspan=7>LIGHTNING TALKS</br>
-    Moderator: TBD</td>
+    Moderator: TBA</td>
     <td rowspan=7>11:00am - 12:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/14.Dold/">The conceptual encyclopedia, revamped? Knowledge organization for 21st c. political theory</a></strong><br>
         <i>Kayla Dold</i>
@@ -206,7 +206,31 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <td><strong><a href="https://www.cais2022.ca/talk/20.Mayhew/">Getting the whole story: On the coverage of historical journals in Web of Science and Scopus</a></strong><br>
         <i>Kydra Mayhew, Maria Henkel, Geoff Krause, Lara Morrison, Courtney Svab & Philippe Mongeon</i>
     </td>
+  </tr>  
+  <tr>
+  <td rowspan=4>Libraries and Archives</br>Moderator: TBA</td>
+     <td>12:00pm - 12:30pm</td>
+       <td><strong><a href="https://www.cais2022.ca/talk/21.Silva/">The practices of archival appraisal in two National Archives in North and South America: Canada and Brazil</a></strong><br>
+        <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
+    </td>
   </tr>
+  <tr>
+    <td>12:30am - 1:00pm</td>
+       <td><strong><a href="https://www.cais2022.ca/talk/22.Dalmer/">“As long as you don’t call me Ma’am”: Older library patron’s views on library programs’ age labels</a></strong><br>
+        <i>Nicole Dalmer, Lucia Cedeira Serantes, & Bria Mitrovica</i>
+    </td>
+  </tr>
+  <tr>
+    <td>1:00pm - 1:30pm</td>
+     <td><strong><a href="https://www.cais2022.ca/talk/23.Modrow/">Edwards dreams of Alexandria: Library history in the service of public library activism</a></strong><br>
+        <i>Sebastian Modrow & Melissa Smith</i>
+    </td>
+  </tr>
+    <tr>
+    <td>1:30pm - 2:00pm</td>
+     <td><strong><a href="https://www.cais2022.ca/talk/24.Chabot/">The discourse of drag queen story time challengers and supporters: A case study from the Okanagan Regional Library</a></strong><br>
+        <i>Roger Chabot & Davin Helkenberg</i>
+    </td>
   <tr>
     <td>Break</td>
     <td colspan=2>2:00am- 2:15pm</td>
@@ -214,7 +238,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   <tr>
     <td>Panel</td>
     <td>2:15pm - 3:45pm</td>
-    <td><strong><a href="https://www.cais2022.ca/talk/21.Marginalization/">100 Years of marginalization: Documenting backward, developing Forward</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/25.Marginalization/">100 Years of marginalization: Documenting backward, developing Forward</a></strong><br>
         <i>Brian M. Watson, Julia Bullard, Rio Picollo, Tamara Lee, Gerry Goh, & Caitlin Purdome</i>
     </td>
   </tr>
@@ -223,21 +247,21 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <td colspan=2>3:45pm - 4:15pm</td>
   </tr>
   <tr>
-    <td rowspan=3>Intersections and Transdisciplinarity</td>
+    <td rowspan=3>Intersections and Transdisciplinarity</br>Moderator: TBA</td>
     <td>4:15pm - 4:45pm</td>
-    <td><strong><a href="https://www.cais2022.ca/talk/23.Allard/">On our own terms: Towards a critical intersecitional ‘FemiLISt’ movement</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/26.Allard/">On our own terms: Towards a critical intersecitional ‘FemiLISt’ movement</a></strong><br>
         <i>Danielle Allard, Tami Oliphant, and Thane Chambers</i>
     </td>
   </tr>
   <tr>
     <td>4:45pm - 5:15pm</td>
-    <td><strong><a href="https://www.cais2022.ca/talk/24.Yanaky/">Addressing transdisciplinary challenges through technology: Immersive soundscape planning tools</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/27.Yanaky/">Addressing transdisciplinary challenges through technology: Immersive soundscape planning tools</a></strong><br>
         <i>Richard Yanaky & Catherine Guastavino</i>
     </td>
   </tr>
   <tr>
     <td>5:15pm - 5:45pm</td>
-    <td><strong><a href="https://www.cais2022.ca/talk/25.Mayhew/">Phylomemetics as a framework for bibliographic synthesis</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/28.Mayhew/">Phylomemetics as a framework for bibliographic synthesis</a></strong><br>
         <i>Alexander Mayhew</i>
     </td>
   </tr>
@@ -248,7 +272,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   <tr>
     <td>Panel</td>
     <td>6:00pm - 7:30pm</td>
-    <td><strong><a href="https://www.cais2022.ca/talk/26.Faith/">A history of unquestioning faith: Vocational awe and the hope for a future of “bad” librarianship</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/29.Faith/">A history of unquestioning faith: Vocational awe and the hope for a future of “bad” librarianship</a></strong><br>
         <i>Heather Hill, Janet Allen, Amber Matthews, Danica Pawlick-Potts & Sam A. Vander Kooy</i>
     </td>
   </tr>
