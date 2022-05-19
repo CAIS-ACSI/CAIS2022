@@ -7,8 +7,8 @@ location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664
 
 abstract: "OPENING PLENARY PANEL with Julia Bullard, Lynne Howarth & Ali Shiri. Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research. Moderator: Grant Campbell"
 
-date: "2021-06-07T12:30:00Z"
-date_end: "2021-06-07T14:00:00Z"
+date: "2022-06-07T13:15:00Z"
+date_end: "2022-06-07T14:45:00Z"
 
 all_day: false
 
