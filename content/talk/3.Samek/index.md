@@ -15,6 +15,8 @@ all_day: false
 publishDate: "2022-01-01T00:00:00Z"
 
 authors:
+ - Toni Samek 
+ - Ali Shir
 
 featured: false
 
