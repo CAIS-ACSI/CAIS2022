@@ -281,7 +281,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
     <th>Session</th>
-    <th>Time (MDT)</th>
+    <th>Time (EDT)</th>
     <th>Event</th>
   </tr>
   <tr>
