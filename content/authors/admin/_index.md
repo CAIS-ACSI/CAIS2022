@@ -43,7 +43,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   <tr>
     <td>OPENING PLENARY PANEL</br>
       Moderator: Grant Campbell</td>
-    <td>1:15pm - 2:45m</td>
+    <td>1:15pm - 2:45pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/1.Future/">Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research</a></strong><br>
         <i>Julia Bullard, Lynne Howarth & Ali Shiri</i>
     </td>
