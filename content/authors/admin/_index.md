@@ -293,7 +293,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
     <td>AGM</td>
-    <td>1:00pm - 3:00pm</td>
+    <td>2:00pm - 4:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/AGM/">CAIS Annual General Meeting</a></strong><br>
         <i>All attendees are welcome to join this meeting</i>
     </td>
