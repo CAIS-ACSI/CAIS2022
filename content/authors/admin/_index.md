@@ -188,12 +188,12 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2022.ca/talk/17.Allen/">The myth of half right reference</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/17.Allen/">Reimagining information overload</a></strong><br>
         <i>Janet Allen</i>
     </td>
   </tr>
   <tr>
-    <td><strong><a href="https://www.cais2022.ca/talk/18.Dudak/">Reimagining information overload</a></strong><br>
+    <td><strong><a href="https://www.cais2022.ca/talk/18.Dudak/">The myth of half right reference</a></strong><br>
         <i>Leah Dudak</i>
     </td>
   </tr>
