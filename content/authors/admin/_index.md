@@ -170,14 +170,9 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <th>Presentation</th>
   </tr>
   <tr>
-    <td rowspan=7>LIGHTNING TALKS</br>
+    <td rowspan=6>LIGHTNING TALKS</br>
     Moderator: TBA</td>
-    <td rowspan=7>11:00am - 12:00pm</td>
-    <td><strong><a href="https://www.cais2022.ca/talk/14.Dold/">The conceptual encyclopedia, revamped? Knowledge organization for 21st c. political theory</a></strong><br>
-        <i>Kayla Dold</i>
-    </td>
-  </tr>
-  <tr>
+    <td rowspan=6>11:00am - 12:00pm</td>
       <td><strong><a href="https://www.cais2022.ca/talk/15.Currier/">Toward information equity among academic libraries: Sharing e-books in the manner of print</a></strong><br>
         <i>Chad Currier</i>
     </td>
