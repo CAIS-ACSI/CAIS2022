@@ -1,14 +1,14 @@
 ---
 title: "Annual General Meeting"
-event: CAIS2021
+event: CAIS2022
 event_url:
 
 location: https://zoom.us/j/96815079086
 
-abstract: ""
+abstract: "Agenda TBA"
 
-date: "2021-06-11T13:00:00Z"
-date_end: "2021-06-11T15:00:00Z"
+date: "2022-06-10T13:00:00Z"
+date_end: "2022-06-10T15:00:00Z"
 
 all_day: false
 

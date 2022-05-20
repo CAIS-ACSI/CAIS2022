@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Well into the Future: Perspectives on Research and Practice"
 event: CAIS2022
 event_url: 
 

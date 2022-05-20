@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Honouring a love of books and reading in Library and Information Science"
 event: CAIS2022
 event_url: 
 

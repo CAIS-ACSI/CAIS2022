@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Charting a faceted categorization of AI and ethics"
 event: CAIS2022
 event_url: 
 

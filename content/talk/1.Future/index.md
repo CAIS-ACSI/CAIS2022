@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Back to the Future: Yesterday’s Lessons and Tomorrow’s Priorities in Library and Information Science Research"
 event: CAIS2022
 event_url: 
 

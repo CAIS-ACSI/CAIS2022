@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "“They act like we are going to heaven”: Information crafting, misinformation, and settlement of Bangladeshi immigrants in Canada"
 event: CAIS2022
 event_url: 
 
