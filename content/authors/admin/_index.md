@@ -57,7 +57,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
         Moderator: TBA</td>
     <td>3:00pm - 4:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/2.Capal/">Well into the Future: Perspectives on Research and Practice</a></strong><br>
-        <i>Mary Greenshields, Michelle Brown, TBA, TBA</i>
+        <i>Mary Greenshields, Michelle Brown, Danielle Allard, Roger Chabot</i>
     </td>
   </tr>
   <tr>
