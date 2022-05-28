@@ -5,7 +5,7 @@ event_url:
 
 location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
 
-abstract: "This paper reports on findings from a larger study on the settlement information behaviour of Bangladeshi immigrants to Canada. This study uses a mixed method approach including semi-structured interviews (n=60) and surveys (n=205) with Bangladeshi immigrants who arrived in Canada between the years of 1971 and 2017. In this paper, the author discusses the information crafting mainly by immigration consultants in Bangladesh. The study reports negative consequences of selective information, mostly positive information about life in Canada sometimes with exaggeration and falsifications shared by immigration consultants in Bangladesh."
+abstract: "This paper reports on findings from a larger study on the settlement information behaviour of Bangladeshi immigrants to Canada. This study uses a mixed method approach, including semi-structured interviews (n=60) and surveys (n=205) with Bangladeshi immigrants who arrived in Canada between 1971 and 2017. The author discusses the new concept of information crafting by exploring the information immigrants received from immigration consultants in Bangladesh and the Immigration, Refugees and Citizenship Canada (IRCC). The study reports negative consequences of selective information in newcomers’ settlement in Canada, primarily positive information about life in Canada, sometimes with exaggeration and falsifications."
 
 date: "2022-06-08T12:00:00Z"
 date_end: "2022-06-08T12:30:00Z"
