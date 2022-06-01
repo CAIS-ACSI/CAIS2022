@@ -242,7 +242,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <td colspan=2>3:45pm - 4:15pm</td>
   </tr>
   <tr>
-    <td rowspan=3>Intersections and Transdisciplinarity</br>Moderator: Adam Worral</td>
+    <td rowspan=3>Intersections and Transdisciplinarity</br>Moderator: Adam Worrall</td>
     <td>4:15pm - 4:45pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/26.Allard/">On our own terms: Towards a critical intersecitional ‘FemiLISt’ movement</a></strong><br>
         <i>Danielle Allard, Tami Oliphant, and Thane Chambers</i>
