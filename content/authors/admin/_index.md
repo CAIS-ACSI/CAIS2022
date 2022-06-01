@@ -203,16 +203,15 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     </td>
   </tr>  
   <tr>
-  <td rowspan=4>Libraries and Archives</br>Moderator: Tami Oliphant</td>
-     <td>12:00pm - 12:30pm</td>
-       <td><strong><a href="https://www.cais2022.ca/talk/21.Silva/">The practices of archival appraisal in two National Archives in North and South America: Canada and Brazil</a></strong><br>
-        <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
-    </td>
+    <td>Break</td>
+    <td colspan=2>12:00pm- 12:30pm</td>
   </tr>
   <tr>
-    <td>12:30am - 1:00pm</td>
-       <td><strong><a href="https://www.cais2022.ca/talk/22.Dalmer/">“As long as you don’t call me Ma’am”: Older library patron’s views on library programs’ age labels</a></strong><br>
-        <i>Nicole Dalmer, Lucia Cedeira Serantes, & Bria Mitrovica</i>
+  <tr>
+  <td rowspan=4>Libraries and Archives</br>Moderator: Tami Oliphant</td>
+     <td>12:30pm - 1:00pm</td>
+       <td><strong><a href="https://www.cais2022.ca/talk/21.Silva/">The practices of archival appraisal in two National Archives in North and South America: Canada and Brazil</a></strong><br>
+        <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
     </td>
   </tr>
   <tr>
@@ -228,7 +227,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     </td>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00am- 2:15pm</td>
+    <td colspan=2>2:00pm- 2:15pm</td>
   </tr>
   <tr>
     <td>Panel</td>
