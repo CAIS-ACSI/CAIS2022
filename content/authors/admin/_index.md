@@ -132,7 +132,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <td colspan=2>3:45pm - 4:15pm</td>
   </tr>
   <tr>
-  <td rowspan=3>Scholarly Communications</br>Moderator:TBA</td>
+  <td rowspan=3>Scholarly Communications</br>Moderator:Ratna Dhaliwal</td>
     <td>4:15pm - 4:45pm</td>
       <td><strong><a href="https://www.cais2022.ca/talk/10.Ayeni/">Factors influencing Canadian HASS researchers’ open access publishing practices: Implication for the future of scholarly communication</a></strong><br>
         <i>Philips Ayeni & Rebekah Willson</i>
@@ -203,7 +203,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     </td>
   </tr>  
   <tr>
-  <td rowspan=4>Libraries and Archives</br>Moderator: TBA</td>
+  <td rowspan=4>Libraries and Archives</br>Moderator: Tami Oliphant</td>
      <td>12:00pm - 12:30pm</td>
        <td><strong><a href="https://www.cais2022.ca/talk/21.Silva/">The practices of archival appraisal in two National Archives in North and South America: Canada and Brazil</a></strong><br>
         <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
