@@ -21,8 +21,6 @@ authors:
 featured: false
 
 links:
-- name: PDF
-  url:
 
 math: true
 ---

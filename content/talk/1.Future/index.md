@@ -22,8 +22,6 @@ authors:
 featured: false
 
 links:
-- name: 
-  url:
 
 math: true
 ---

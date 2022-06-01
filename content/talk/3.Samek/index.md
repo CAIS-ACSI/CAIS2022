@@ -21,8 +21,7 @@ authors:
 featured: false
 
 links:
-- name: PDF
-  url:
+- url: 3.Samek.pdf
 
 math: true
 ---
