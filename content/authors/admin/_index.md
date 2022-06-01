@@ -98,7 +98,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   </tr>
   <tr>
-    <td rowspan=3>Search and Discovery</br>Moderator: TBA</td>
+    <td rowspan=3>Search and Discovery</br>Moderator: Eva Hourihan Jansen</td>
     <td>12:30pm - 1:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/6.Shiri/">Digital content reuse assessment: An emerging framework for future digital library research and development</a></strong><br>
         <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
