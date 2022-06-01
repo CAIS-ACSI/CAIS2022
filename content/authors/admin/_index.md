@@ -208,7 +208,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
   <tr>
-  <td rowspan=4>Libraries and Archives</br>Moderator: Tami Oliphant</td>
+  <td rowspan=3>Libraries and Archives</br>Moderator: Tami Oliphant</td>
      <td>12:30pm - 1:00pm</td>
        <td><strong><a href="https://www.cais2022.ca/talk/21.Silva/">The practices of archival appraisal in two National Archives in North and South America: Canada and Brazil</a></strong><br>
         <i>Maria Juliana Nunes da Silva & Ivana Denise Parrela</i>
