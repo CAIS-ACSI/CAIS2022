@@ -22,7 +22,7 @@ authors:
 featured: false
 
 links:
-- name: PDF
+- name: 
   url:
 
 math: true
