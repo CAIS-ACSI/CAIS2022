@@ -5,7 +5,7 @@ event_url:
 
 location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
 
-abstract: "Since the early 2010s, more than half of peer-reviewed journal articles have been published by the so-called oligopoly (Elsevier, SAGE, Springer-Nature, Taylor & Francis, Wiley) of academic publishers. These five publishers have now embraced open access (OA) through an author-pays model, often demanding astronomic article processing charges (APCs) that makes open access publishing unaffordable for many. This paper estimates the total amounts of APCs paid to oligopoly publishers between 2015 and 2018. The study employs bibliometric methods combining data from Web of Science (WoS), Unpaywall, open datasets of APC list prices as well as historical fees retrieved via the Internet Archive Wayback Machine."
+abstract: "This study estimates fees paid for gold and hybrid open access articles in journals published by the oligopoly of academic publishers, which acknowledge funding from the Canadian Tri-Agency. It employs bibliometric methods using data from Web of Science, Unpaywall, open datasets of article processing charges list prices as well as historical fees retrieved via the Internet Archive Wayback Machine for journals published by Elsevier, Springer-Nature, Wiley, Sage and Taylor & Francis to estimate article processing charges for open access articles published between 2015 and 2018 that acknowledge funding from the Canadian Federal funding agencies CIHR, NSERC, and SSHRC, as well as grants jointly administered by the Tri-Agency. During the four-year period analyzed, a total of 6,892 gold and 4,097 hybrid articles that acknowledge Tri-Agency funding were identified, for which the total list prices amount to $US 27.6 million."
 
 date: "2022-06-08T17:15:00Z"
 date_end: "2022-06-08T17:45:00Z"
@@ -25,8 +25,7 @@ authors:
 featured: false
 
 links:
-- name: PDF
-  url:
+
 
 math: true
 ---

@@ -5,7 +5,7 @@ event_url:
 
 location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
 
-abstract: "INAUGURAL JOINT PANEL with the Canadian Association for Professional Academic Librarians (CAPAL), Well into the Future: Perspectives on Research and Practice"
+abstract: "INAUGURAL JOINT PANEL with the Canadian Association for Professional Academic Librarians (CAPAL), Well into the Future: Perspectives on Research and Practice. Moderator: Stacy Allison-Cassin"
 
 date: "2022-06-07T15:00:00Z"
 date_end: "2022-06-07T16:00:00Z"
@@ -17,10 +17,11 @@ publishDate: "2022-01-01T00:00:00Z"
 authors:
  - Mary Greenshields
  - Michelle Brown
+ - Danielle Allard
+ - Roger Chabot
 
 featured: false
 
-links:
 
 math: true
 ---

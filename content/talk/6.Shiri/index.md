@@ -5,7 +5,7 @@ event_url:
 
 location: "[https://zoom.us/j/88016818664](https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)"
 
-abstract: "This paper reports on a US-funded research project that examines the development of an assessment framework for digital content reuse by cultural heritage organizations. Specifically, it provides a conceptual framework for a nuanced understanding of digital object/content use and reuse and introduces a set of ethical considerations and guidelines for the assessment of digital object/content reuse in digital, archives, and repositories."
+abstract: "This paper reports on a US-funded research project that investigates the development of an assessment framework for digital content reuse by cultural heritage organizations. Specifically, it will provide a conceptual framework for a nuanced understanding of digital object/content use and reuse and will introduce a set of ethical guidelines for the assessment of digital object/content reuse in digital, archives, and repositories."
 
 date: "2022-06-08T12:30:00Z"
 date_end: "2022-06-08T13:00:00Z"
@@ -27,8 +27,7 @@ authors:
 featured: false
 
 links:
-- name: PDF
-  url:
+
 
 math: true
 ---

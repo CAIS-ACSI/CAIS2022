@@ -20,7 +20,6 @@ authors:
 
 featured: false
 
-links:
 
 math: true
 ---
