@@ -19,7 +19,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
 
 # Program
 
-<center>Zoom link for all sessions: <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">https://zoom.us/j/88016818664</a></center>
+<center>Zoom link for all sessions: <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">https://zoom.us/j/88016818664</a> passcode: 502897</center>
 <center>Note that all times are in <strong>Eastern Daylight Time (EDT)</strong>.</center>
 <center>Please make sure to use your real name when joining the Zoom call to ensure that the moderators let you in. If you have problems accessing the meeting, please <a href="#contact">contact us.</a></center>
 <center>Download PDF version of the program <a href="cais2022_program_and_schedule.pdf">here</a>.</center>
