@@ -18,7 +18,9 @@ publishDate: "2022-01-01T00:00:00Z"
 
 authors:
  - Janet Allen
- 
+ - Alexia Baggetta 
+ - Maya Fernandez Contreras 
+
 
 featured: false
 
