@@ -184,7 +184,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
     <td><strong><a href="https://www.cais2022.ca/talk/17.Allen/">Reimagining information overload</a></strong><br>
-        <i>Janet Allen</i>
+        <i>Janet Allen, Alexia Baggetta & Maya Fernandez Contreras</i>
     </td>
   </tr>
   <tr>
