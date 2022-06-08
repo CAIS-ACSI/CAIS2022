@@ -98,7 +98,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   </tr>
   <tr>
-    <td rowspan=3>Search and Discovery</br>Moderator: Eva Hourihan Jansen</td>
+    <td rowspan=2>Search and Discovery</br>Moderator: Eva Hourihan Jansen</td>
     <td>12:30pm - 1:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/6.Shiri/">Digital content reuse assessment: An emerging framework for future digital library research and development</a></strong><br>
         <i>Ali Shiri, Caroline Muglia, Santi Thompson, Joyce Chapman, Elizabeth Joan Kelly, Ayla Stein Kenfield & Liz Woolcot</i>
@@ -106,19 +106,13 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>  
   <tr>
     <td>1:00pm - 1:30pm</td>
-   <td> <strong><a href="https://www.cais2022.ca/talk/7.Tucker/">Search engine paths not taken: Revisiting early insights and exploring future challenges to enrich search methods curriculum</a></strong><br>
-        <i>Virginia Tucker</i>
-    </td>
-  </tr>
-  <tr>
-    <td>1:30pm - 2:00pm</td>
     <td><strong><a href="https://www.cais2022.ca/talk/8.Haigh/">Fact checking after truth</a></strong><br>
         <i>Maria Haigh</i>
     </td>
   </tr>
   <tr>
     <td>Break</td>
-    <td colspan=2>2:00pm - 2:15pm</td>
+    <td colspan=2>1:30pm - 2:15pm</td>
   </tr>
   <tr>
     <td>PANEL</td>
