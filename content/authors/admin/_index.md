@@ -273,11 +273,24 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <th>Event</th>
   </tr>
   <tr>
-    <td>Forum</td>
-    <td>11:00am - 2:00pm</td>
-    <td><strong>Student Research Forum</strong> (by invitation only)<br>
-        <i>Danica Facca, Hugh Samson</i>
-    </td>
+    <td rowspan=5>Student Research Forum<br>
+        <i>Danica Facca, Hugh Samson</i></td>
+  </tr>
+  <tr>
+    <td>11:00am - 11:30pm</td>
+    <td><strong><a>When Health Meets Information Work</a></strong><br></td>
+  </tr>
+  <tr>
+    <td>11:30am - 12:30pm</td>
+    <td><strong><a>The Complexity of Libraries</a></strong><br></td>
+  </tr>
+  <tr>
+    <td>12:00am - 12:30pm</td>
+    <td><strong><a>Searching Through Systems</a></strong><br></td>
+  </tr>
+  <tr>
+    <td>12:30am - 1:00pm</td>
+    <td><strong><a>Informing the Social World</a></strong><br></td>
   </tr>
   <tr>
     <td>AGM</td>
