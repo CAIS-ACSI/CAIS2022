@@ -274,7 +274,9 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
   </tr>
   <tr>
     <td rowspan=5>Student Research Forum<br>
-        <i>Danica Facca, Hugh Samson</i></td>
+        <i>Open to all</i><br>
+      Moderators: Danica Facca, Hugh Samson
+  </td>
   </tr>
   <tr>
     <td>11:00am - 11:30pm</td>
