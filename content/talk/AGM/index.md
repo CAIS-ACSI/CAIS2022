@@ -3,7 +3,7 @@ title: "Annual General Meeting"
 event: CAIS2022
 event_url:
 
-location: [https://zoom.us/j/96815079086](https://us06web.zoom.us/j/88016818664?pwd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09)
+location: https://us06web.zoom.us/j/88016818664?pwd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09
 
 abstract: "Agenda TBA"
 
