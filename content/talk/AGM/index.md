@@ -7,7 +7,7 @@ location: https://us06web.zoom.us/j/88016818664?pwd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJ
 
 abstract: "Agenda TBA"
 
-date: "2022-06-10T13:00:00Z"
+date: "2022-06-10T14:00:00Z"
 date_end: "2022-06-10T15:00:00Z"
 
 all_day: false
