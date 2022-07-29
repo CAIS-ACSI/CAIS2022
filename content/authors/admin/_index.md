@@ -273,7 +273,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
     <th>Event</th>
   </tr>
   <tr>
-    <td rowspan=5>Student Research Forum<br>
+    <td rowspan=5><a href="https://www.cais2022.ca/talk/SRF/">Student Research Forum</a><br>
         <i>Open to all</i><br>
       Moderators: Danica Facca, Hugh Samson
   </td>
