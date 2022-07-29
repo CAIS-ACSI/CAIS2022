@@ -319,3 +319,5 @@ sarah.polkinghorne@ualberta.ca<br>
 
 ### References
 Nilson, K. (2010). Thirty-seven CAIS-ACSI conferences, 1973–2009. <italic>Canadian Journal of Information and Library Science, 34</italic>(2), 131-159. [https://doi.org/10.1353/ils.0.0000](https://doi.org/10.1353/ils.0.0000)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
