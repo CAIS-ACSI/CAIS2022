@@ -19,9 +19,7 @@ To mark CAIS/ACSI’s 50th conference, the 2022 theme is “100 Years of Informa
 
 # Program
 
-<center>Zoom link for all sessions: <a href="https://us06web.zoom.us/j/88016818664?wd=bWlEMk1oZ3FyWTVFNXZISUh4dlZJdz09">https://zoom.us/j/88016818664</a> passcode: 502897</center>
-<center>Note that all times are in <strong>Eastern Daylight Time (EDT)</strong>.</center>
-<center>Please make sure to use your real name when joining the Zoom call to ensure that the moderators let you in. If you have problems accessing the meeting, please <a href="#contact">contact us.</a></center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <center>Download PDF version of the program <a href="cais2022_program_and_schedule.pdf">here</a>.</center>
 <table style="width:100%">
   <tr>
@@ -320,4 +318,3 @@ sarah.polkinghorne@ualberta.ca<br>
 ### References
 Nilson, K. (2010). Thirty-seven CAIS-ACSI conferences, 1973–2009. <italic>Canadian Journal of Information and Library Science, 34</italic>(2), 131-159. [https://doi.org/10.1353/ils.0.0000](https://doi.org/10.1353/ils.0.0000)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHgr5ZnpF46vbvM7WCkt-YDEP4vxxS_oZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
